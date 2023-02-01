@@ -1,3 +1,6 @@
+FORK OF JackMcKew/pyinstaller-action-windows@main TO SUPPORT PYTHON 3.10
+
+
 # PyInstaller-Action-Windows
 
 Github Action for building executables with PyInstaller
